@@ -24,7 +24,7 @@ To retrieve character information, you can use a GraphQL tool like GraphiQL, Apo
 
 Steps:
 Clone this repository to your local machine.
-git clone https://github.com/Teklemuz/alx-graphql-0x00.git
+git clone https://github.com/Teklemuz/alx-graphql-0x02.git
 Navigate to the character directory.
 cd alx-graphql-0x00/character
 Choose one of the .graphql query files (e.g., character-id-1.graphql) and execute the query.
